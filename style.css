@@ -108,7 +108,7 @@ header button:hover{
 }
 .form .div:hover img{
     transform: rotate(360deg);
-    transition: all 1s linear;
+    transition: all 1.5s linear;
 }
 .form .div img:hover{
     transform: scaleX(1.6);
